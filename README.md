@@ -1,7 +1,7 @@
 # HackerRankFunProjects
 
 * [30 DAYS OF CODE](#30-days-of-code)
-* [JAVA](#java)
+* [FUN GAMES](#games)
 
 # 30 DAYS OF CODE
 
@@ -38,13 +38,15 @@
 |  28 | [RegEx,Patterns,and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)              | [Day28.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/30DaysOfCode/hackerrank/thirtydaysofcode/Day28.java)        |                                                              
 |  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)             							                | [Day29.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/30DaysOfCode/hackerrank/thirtydaysofcode/Day29.java)                	    		    			    |                                                              
 
-# JAVA
+# FUN GAMES
 
 |          Subdomain          |                                                         Challenge                                                       		 		|                                                                                                Solution                                                                                                                               				 		|				 	  
 |:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|       MadLibs   	  | [MadLibs](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 		| [MadLibs.java]) 
-|       TicTacToe   	| [TicTacToe](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 	| [TicTacToe.java]) 
-|       Hangman   	  | [Hangman](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 		| [Hangman.java]) |						
+|       MadLibs   	         | [MadLibs](https://en.wikipedia.org/wiki/Mad_Libs)              | [MadLibs.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/FunGames/src/hackerrank/games/MadLibs.java) 
+|       TicTacToe   	       | [TicTacToe](https://en.wikipedia.org/wiki/Tic-tac-toe)         | [TicTacToe.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/FunGames/src/hackerrank/games/tictactoe/TicTacToe.java) 
+|       Hangman   	         | [Hangman](https://en.wikipedia.org/wiki/Hangman_(game))        | [Hangman.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/FunGames/src/hackerrank/games/hangman/Hangman.java) 
+|       ChristmasStar   	   | [ChristmasStar]                                                | [ChristmasStar.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/FunGames/src/general/ChristmasStar.java) 
+|       Dice Roll        	   | [DiceRoll]                                                     | [DiceRoll.java](https://github.com/githanjalli/HackerRankFunProjects/blob/master/FunGames/src/general/DiceRoll.java) 
 
 
 
